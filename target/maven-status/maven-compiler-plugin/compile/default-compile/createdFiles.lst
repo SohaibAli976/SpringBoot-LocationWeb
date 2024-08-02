@@ -1,0 +1,6 @@
+com\example\location\locationweb\service\LocationServiceImpl.class
+com\example\location\locationweb\entities\Location.class
+com\example\location\locationweb\service\LocationService.class
+com\example\location\locationweb\Location\LocationController.class
+com\example\location\locationweb\Repository\LocationRepository.class
+com\example\location\locationweb\LocationwebApplication.class

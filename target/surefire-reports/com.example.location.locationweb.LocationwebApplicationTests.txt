@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.location.locationweb.LocationwebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.27 s -- in com.example.location.locationweb.LocationwebApplicationTests
